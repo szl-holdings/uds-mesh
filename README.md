@@ -1,5 +1,15 @@
 # szl-otel-mesh
 
+> **SUPERSEDED (archived repo — read this first).** This repository is
+> **GitHub-archived (read-only)**. The canonical-home declaration below —
+> "single canonical home of the UDS mesh per ADR-0001" — is **historical**: it
+> was accurate when written (2026-06-03/06-28), before this repo's scope
+> narrowed to Layer-5 OTel observability and the CRDT mesh-coordination work
+> moved to the active successor, **[`szl-mesh`](https://github.com/szl-holdings/szl-mesh)**.
+> `szl-mesh` is the active repo for ongoing mesh work; this repo remains the
+> archived, read-only home of the OTel span-schema history described below.
+> See the amendment note in [`CANONICAL.md`](CANONICAL.md).
+
 > **Renamed 2026-06-28:** This repository was renamed from `uds-mesh` to `szl-otel-mesh` for naming clarity — OTel observability scope vs. CRDT mesh coordination in [`szl-mesh`](https://github.com/szl-holdings/szl-mesh). GitHub redirects old URLs automatically; update any bookmarks.
 
 

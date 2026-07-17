@@ -1,5 +1,15 @@
 # CANONICAL — this repository is the home of the UDS mesh
 
+> **ADR-0001 AMENDMENT (2026-07-17):** This repository (`szl-otel-mesh`,
+> formerly `uds-mesh`) is now **GitHub-archived**. Canonical status for
+> **ongoing UDS mesh / CRDT-coordination work** has moved to
+> **[`szl-holdings/szl-mesh`](https://github.com/szl-holdings/szl-mesh)**, the
+> active successor. The declaration below is preserved as the **historical**
+> record of the 2026-06-03 ADR-0001 decision and remains accurate for this
+> repo's narrowed Layer-5 OTel-observability scope; it should **not** be read
+> as claiming this archived repo is the canonical home of present-day mesh
+> work.
+
 **`szl-holdings/uds-mesh` is the single canonical home of the UDS mesh.**
 
 This is the authoritative source of record per **ADR-0001 (Canonical Home for the
